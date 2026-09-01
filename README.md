@@ -44,7 +44,7 @@ Lower your finger to stop it (with a natural delay).
 
 Both hands are supported — play up to 10 chords!
 
-Press Q to quit.
+Press q to quit.
 
 Notes
 Default chords are based on the D major scale.
